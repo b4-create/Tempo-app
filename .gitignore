@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# App data (user accounts, classrooms, uploads)
+data/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
